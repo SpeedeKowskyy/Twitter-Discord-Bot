@@ -1,0 +1,2 @@
+discord.py==1.7.2
+tweepy==3.10.0
